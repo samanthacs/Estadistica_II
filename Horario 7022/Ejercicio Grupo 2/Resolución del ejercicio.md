@@ -2,7 +2,7 @@ DESARROLLO DEL PROBLEMA:
 Experimento sobre el estudio del manejo de la ira en una muestra de 6 reclusos de 20 establecimientos penitenciarios
 
 
-Primer análisis realizado: 
+Primer análisis realizado: (Samantha Colmenares)
 El problema planteado cuenta con varios factores a analizar, así como la influencia de distintas variables.
 La primera parte del problema "se quería saber si la exposición a dichas películas generaba distintos niveles de manejo de la ira" se ha analizado de la siguiente manera:
 Variable Dependiente: Niveles de manejo de la ira
