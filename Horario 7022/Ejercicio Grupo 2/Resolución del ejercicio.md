@@ -25,8 +25,8 @@ correspondiente es H de Kruskal Wallis para k muestras independientes, que serí
 varianzas ANOVA. El análisis se realiza en relación a las medianas, por ser no paramétrico. 
 
 Planteamiento de hipótesis global, respecto a la igualdad de Medianas
-H0: Me1=Me2
-H1: Me1 diferente de Me2
+H0: Me1=Me2=Me3
+H1: al menos dos medianas son diferentes
 La primera tabla a observar es la de "Estadísticos de Prueba" en la cual SPSS brinda el valor de la significancia (en este caso sólo 
 la asintótica, pues se cuenta con una muestra mayor a 30 participantes, por tanto no se puede pedir una significancia exacta). La 
 significancia es de 0.00, lo cual lleva a rechazar la hipótesis nula de igualdad de medianas. Sin embargo, como se aclaró previamente
@@ -39,23 +39,22 @@ El estadístico de Kruskal Wallis ofrece un contraste global respecto a las vari
 Planteamiento de hipótesis para Inglorious Basterds (Me1) y Reservoir Dogs (Me2)
 H0: Me1=Me2
 H1: Me1 diferente de Me2
-La tabla "Estadísticos de Prueba" muestra el valor de la significancia, se rechaza la hipótesis nula de la igualdad de medianas (significancia de 0.00). Al observar la tabla "Rangos" los valores de los rangos promedio (51 y 29), estos son distintos por lo tanto existe diferencia entre ambas muestras. 
+La tabla "Estadísticos de Prueba" muestra el valor de la significancia, se rechaza la hipótesis nula de la igualdad de medianas (significancia de 0.00).  Asimismo, se acepta la hipótesis alterna, al observar Las medianas de Inglorious Basterds (51.75) y de Reservoir Dogs (38.25) las cuales difieren. 
 "Estadísticos de prueba" también ofrece el valor de Z, el cual divido entre la raíz cuadrada de N (número total de casos) da el tamaño del efecto, siendo el tamaño del efecto (R de Rosenthal para este caso) de 0.47 es significativo, lo cual lleva a asumir que estas diferencias muestrales tienen  probabilidad  de corresponder a nivel poblacional también. 
 
 Planteamiento de hipótesis para Inglorious Basterds (Me1) y Kill Bill (Me2)
 H0: Me1=Me2
 H1: Me1 diferente de Me2
-Se rechaza la hipótesis nula de la igualdad de medianas (significancia de 0.00), y al observar los valores de los rangos promedio (60 y 21), estos son distintos por lo tanto existe diferencia entre ambas muestras. Siendo el tamaño del efecto de 0.85 es significativamente grande, lo cual lleva a asumir que estas diferencias muestrales tienen una probabilidad grande de corresponder a nivel poblacional también.
+Se rechaza la hipótesis nula de la igualdad de medianas (significancia de 0.00). Asimismo, se acepta la hipótesis alterna, al observar Las medianas de Inglorious Basterds (51.75) y de Kill Bill (31.50) las cuales difieren. 
+Siendo el tamaño del efecto de 0.85 es significativamente grande, lo cual lleva a asumir que estas diferencias muestrales tienen una probabilidad grande de corresponder a nivel poblacional también.
 
 Planteamiento de hipótesis para Reservoir Dogs (Me1) y Kill Bill (Me2)
 H0: Me1=Me2
 H1: Me1 diferente de Me2
-Al observar la significancia que aparece en el cuadro "Estadísticos de prueba" no se puede rechazar la hipótesis nula de la igualdad de medianas (significancia de 0.9 mayor a 0.05) y al observar los valores de los rangos promedio (40.8 y 40.2), estos no difieren tanto, por lo que la diferencia entre ambas muestras existe pero es muy pequeña. 
+Al observar la significancia que aparece en el cuadro "Estadísticos de prueba" no se puede rechazar la hipótesis nula de la igualdad de medianas (significancia de 0.9 mayor a 0.05). Las medianas observadas entre Reservoir Dogs (38.25) y Kill Bill (31.50) no presentan muchas diferencias, en comparación a lo observado para las otras medianas. 
 De igual manera se calcula el tamaño del efecto (R de Rosenthal) y siendo este de 0.01 es irrelevante, lo cual lleva a asumir que estas diferencias muestrales tienen  muy poca probabilidad  de corresponder a nivel poblacional.
 
 Finalmente, se puede concluir respecto a este primer análisis lo siguiente: La exposición a las películas de Tarantino sí genera distintos niveles de manejos de la ira. 
 Por un lado, se concluye a nivel global que se llega a distintos niveles dependiendo de la película observada (con el estadístico H de Kruskal Wallis).
 Por otro lado, se concluye en particular (con el estadístico U de Mann Whtney) que, la película más influyente en los niveles de manejo de la ira es Inglorious Basterds y que las otras dos películas (Reservoir Dogs y Kill Bill) presentan también una influencia en el manejo de la ira, pero esta es menor que la de Inglorious Basterds y no se puede precisar la diferencia entre la
 influencia menor que presentan estas dos.
-
-
